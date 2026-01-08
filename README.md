@@ -71,10 +71,6 @@
 
 <img src="https://github.com/reycotallo98/reycotallo98/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/reycotallo98/count.svg?"  />
-</div>
 
 ###
